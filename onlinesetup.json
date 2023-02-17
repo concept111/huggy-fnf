@@ -3,6 +3,12 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
+       {
+         "title": "ASMR Coloring Games",
+         "description": "Buat mahakarya Anda sendiri atau dapatkan inspirasi dan jelajahi ribuan halaman mewarnai yang indah di galeri kami yang dibuat oleh Master Halaman Mewarnai kami yang luar biasa!",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/asmr.png",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringasmr.drawingasmr&hl=in&gl=US"
+      } 
       {
          "title": "Wednesday Addams coloring",
          "description": "Selamat datang di aplikasi Super Android untuk buku Mewarnai Addams Rabu pasti akan mengejutkan Anda dengan semua warna lucu yang berbeda yang harus menggambar keseluruhan horor mewarnai halaman Addams Rabu yang Anda suka!",
